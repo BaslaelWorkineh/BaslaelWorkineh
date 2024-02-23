@@ -6,6 +6,21 @@
 
 With a keen interest in game development, I love exploring the intersection of technology and creativity to craft captivating gaming experiences. Whether it's coding game mechanics, designing levels, or optimizing performance, I'm always up for the challenge of bringing virtual worlds to life.</p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BaslaelWorkineh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BaslaelWorkineh&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaslaelWorkineh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Amanuel-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=Amanuel-1&icon=5&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 - 🔭 I’m currently working on [MERN STACK Blog](https://github.com/BaslaelWorkineh/FullStack-Blog-Starter)
 
 - 🌱 I’m currently learning **Introduction to Artificial Intelligence with Python by CS50**
