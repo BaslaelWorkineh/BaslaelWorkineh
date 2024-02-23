@@ -21,13 +21,13 @@ With a keen interest in game development, I love exploring the intersection of t
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-- 🔭 I’m currently working on [MERN STACK Blog](https://github.com/BaslaelWorkineh/FullStack-Blog-Starter)
+- 🔭 I’m currently working on [MERN STACK Blog](https://mrbasketo.vercel.app/articlesList)
 
 - 🌱 I’m currently learning **Introduction to Artificial Intelligence with Python by CS50**
 
 - 🤝 I’m looking for help with [MotorController Project](https://github.com/BaslaelWorkineh/Unity-3d-Motorbike-Controller)
 
-- 👨‍💻 All of my projects are available at [Not Deployed Yet](Not Deployed Yet)
+- 👨‍💻 All of my projects are available at [My Website](https://mrbasketo.vercel.app/)
 
 - 💬 Ask me about **MERN, Unity, c#, Photon Networking**
 
