@@ -13,7 +13,7 @@ Check my [website]([mrbasketo.vercel.app/)  |  Download my [resume](https://driv
 
 ---
 
-- 🔭 I’m currently working on [MERN STACK Blog](https://mrbasketo.vercel.app/articlesList)
+- 🔭 I’m currently working on [MERN STACK Blog](https://mrbasketo.vercel.app/articlesList) and React native mobile application
 
 - 🌱 I’m currently learning **Introduction to Artificial Intelligence with Python by CS50**
 
