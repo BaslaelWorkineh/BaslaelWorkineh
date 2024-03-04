@@ -13,7 +13,7 @@ Check my [website](mrbasketo.vercel.app/)  |  Download my [resume](https://drive
 
 ---
 
-- 🔭 I’m currently working on [MERN STACK Blog](https://mrbasketo.vercel.app/articlesList), [Feres Mobile app(Exact Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Guzo](https://github.com/beki-kel/GUZO/tree/main),[Good Amharic Books](https://github.com/eyuuab/good_amharic_books)
+- 🔭 I’m currently working on [My Website](https://mrbasketo.vercel.app/), [Feres Mobile app(Exact Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Guzo](https://github.com/beki-kel/GUZO/tree/main),[Good Amharic Books](https://github.com/eyuuab/good_amharic_books)
 
 - 🌱 I’m currently learning **Introduction to Artificial Intelligence with Python by CS50**
 
