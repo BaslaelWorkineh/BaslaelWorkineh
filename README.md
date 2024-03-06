@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Baslael Workineh</h1>
 
-<p>I am a software developer from Ethiopia with a knack for building immersive experiences and interactive applications. My journey in the world of technology has led me to specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), where I combine my skills in frontend and backend development to create dynamic and scalable web applications. With a keen interest in game development, I love exploring the intersection of technology and creativity to craft captivating gaming experiences. Whether it's coding game mechanics, designing levels, or optimizing performance, I'm always up for the challenge of bringing virtual worlds to life.</p>
+<p>I am a software developer from Addis Ababa Unverstiy with a knack for building immersive experiences and interactive applications. My journey in the world of technology has led me to specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), where I combine my skills in frontend and backend development to create dynamic and scalable web applications. With a keen interest in game development, I love exploring the intersection of technology and creativity to craft captivating gaming experiences. Whether it's coding game mechanics, designing levels, or optimizing performance, I'm always up for the challenge of bringing virtual worlds to life.</p>
 
 Check my [Website](https://mrbasketo.vercel.app/)  |  Download my [resume](https://drive.usercontent.google.com/uc?export=download&id=1iNJQtjSPqGtYWQfP0GxdHr8YW8HOam67)
 # 📊 GitHub Stats:
