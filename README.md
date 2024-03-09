@@ -6,11 +6,11 @@
 
 Check my [Website](https://mrbasketo.vercel.app/)  |  Download my [resume](https://drive.usercontent.google.com/uc?export=download&id=1iNJQtjSPqGtYWQfP0GxdHr8YW8HOam67)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BaslaelWorkineh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BaslaelWorkineh&show_icons=true&theme=radical&locale=en)<br/>
 <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaslaelWorkineh&theme=dark&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaslaelWorkineh&theme=darkhide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=BaslaelWorkineh&show_icons=true&theme=radical&locale=en&layout=compact)
 
 ---
 
