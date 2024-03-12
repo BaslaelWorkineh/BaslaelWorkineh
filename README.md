@@ -14,7 +14,7 @@ Check my [Website](https://mrbasketo.vercel.app/)  |  Download my [resume](https
 
 ---
 
-- 🔭 I’m currently working on [My Website](https://mrbasketo.vercel.app/), [Feres Mobile app(Exact Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Guzo](https://github.com/beki-kel/GUZO/tree/main),[Good Amharic Books](https://github.com/eyuuab/good_amharic_books)
+- I’m currently working on [My Website](https://mrbasketo.vercel.app/), [Feres Mobile app(Exact Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Guzo](https://github.com/beki-kel/GUZO/tree/main),[Good Amharic Books](https://github.com/eyuuab/good_amharic_books)
 
 - you can see my projects here [My Website](https://mrbasketo.vercel.app/)
 
