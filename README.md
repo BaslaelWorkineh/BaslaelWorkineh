@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BaslaelWorkineh&label=Profile%20views&color=0e75b6&style=flat" alt="Baslael Workineh" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif"/>
 
 <h1 align="center">Hello 👋, I'm Baslael Workineh</h1>
@@ -33,6 +35,8 @@ Check my [Portfolio](https://mrbasketo.vercel.app/)  |  Download my [resume](htt
 </p>
 
 [![Instagram Follow](https://img.shields.io/badge/Follow-basketo_w-red?logo=instagram&style=for-the-badge)](https://www.instagram.com/basketo_w/)
+
+
 
 
 
