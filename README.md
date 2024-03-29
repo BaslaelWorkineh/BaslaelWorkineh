@@ -16,7 +16,7 @@ Check my [Portfolio](https://mrbasketo.vercel.app/)  |  Download my [resume](htt
 
 ---
 
-- I’m currently working on [Feres Mobile app(Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Guzo](https://github.com/beki-kel/GUZO/tree/main),[Good Amharic Books](https://github.com/eyuuab/good_amharic_books)
+- I’m currently working on [Feres Mobile app(Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Meheja](https://github.com/beki-kel/GUZO/tree/main)
 
 - you can see my projects here [My Website](https://mrbasketo.vercel.app/)
 
