@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif"/>
 
-<h1 align="center">Hello 👋, I'm Baslael Workineh</h1>
+<h1 align="center">Hi 👋, I'm Baslael Workineh</h1>
 
 <p>I am a software developer from Addis Ababa Unverstiy with interest for building immersive experiences and interactive applications. I have specialized in MERN stack, where I combine my skills in frontend and backend development to create dynamic and scalable web applications. With a high interest in game development, I love creating game assets and reusable components. Whether it's Full stack web, coding game mechanics or optimizing performance, I'm always up for challenging myself.</p>
 
@@ -16,7 +16,7 @@ Check my [Portfolio](https://mrbasketo.vercel.app/)  |  Download my [resume](htt
 
 ---
 
-- I’m currently working on [Feres Mobile app(Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Meheja](https://github.com/beki-kel/GUZO/tree/main), [MehejaApp](https://github.com/BaslaelWorkineh/GuzoMobileVersion),
+- I’m currently working on [Feres Mobile app(Clone)](https://github.com/BaslaelWorkineh/Feres-Clone), [Meheja](https://github.com/beki-kel/GUZO/tree/main), [MehejaApp](https://github.com/BaslaelWorkineh/GuzoMobileVersion),AND Learnig ML
 
 - you can see my projects here [My Website](https://mrbasketo.vercel.app/)
 
