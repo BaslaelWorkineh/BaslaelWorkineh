@@ -6,7 +6,7 @@
 
 <p>I am a software developer from Addis Ababa Unverstiy with interest for building immersive experiences and interactive applications. I have specialized in MERN stack, where I combine my skills in frontend and backend development to create dynamic and scalable web applications. With a high interest in game development, I love creating game assets and reusable components. Whether it's Full stack web, coding game mechanics or optimizing performance, I'm always up for challenging myself.</p>
 
-Check my [Portfolio](https://mrbasketo.vercel.app/)  |  Download my [resume](https://drive.usercontent.google.com/uc?export=download&id=1iNJQtjSPqGtYWQfP0GxdHr8YW8HOam67)
+Check my [Portfolio](https://mrbasketo.vercel.app/)  |  Download my [resume](https://drive.usercontent.google.com/uc?export=download&id=1iNJQtjSPqGtYWQfP0GxdHr8YW8HOam67) |   My Telegram Group [Telegram](https://t.me/BasketoDev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BaslaelWorkineh&show_icons=true&theme=radical&locale=en)<br/>
 <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
